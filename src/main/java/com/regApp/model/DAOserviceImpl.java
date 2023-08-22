@@ -12,7 +12,7 @@ public class DAOserviceImpl implements DAOservice {
 	public void connectDB() {
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			con=DriverManager.getConnection("jdbc:mysql://localhost:3306/studentregapp","root","@27October");
+			con=DriverManager.getConnection("jdbc:mysql://localhost:3306/studentregapp","root","######");
 			st= con.createStatement();
 			
 			
