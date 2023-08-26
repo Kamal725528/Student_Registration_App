@@ -18,3 +18,5 @@ The app follows the MVC (Model-View-Controller) architecture and includes featur
 - MySQL: Database to store user information.
 - Tomcat: Servlet container used for deploying the app.
 
+  ## Flow of Project
+  ![project flow](https://github.com/Kamal725528/Student_Registration_App/assets/88225844/56493ea9-1990-4a00-9dbb-89cafda13d29)
